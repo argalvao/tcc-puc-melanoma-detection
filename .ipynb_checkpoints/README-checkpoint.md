@@ -1,4 +1,3 @@
-# tcc-puc-melanoma-detection
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -10,7 +9,7 @@
 <h1>Diagnóstico Automático de Melanoma utilizando Redes Neurais</h1>
 
 <p>
-    Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) de pós-graduação em Ciência de Dados e Big Data e 
+    Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) de pós-graduação em Ciência de Dados e Big Data - PUC Minas e 
     tem como objetivo desenvolver uma solução automatizada para o diagnóstico de melanoma em imagens utilizando 
     redes neurais convolucionais (CNNs).
 </p>
